@@ -6,9 +6,6 @@
 * Chips and salsa
 
 
-# Markdown
-Testing 
-
 
 ## Header
 
