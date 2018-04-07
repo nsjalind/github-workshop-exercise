@@ -1,6 +1,7 @@
 # Appetizers
 
 * Cheese platter
+* Guacamole
 * Breadsticks
 * Chips and salsa
 
