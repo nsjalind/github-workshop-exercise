@@ -29,8 +29,3 @@ __This will be bold__
   * Item 2a
   * Item 2b
   
-## Ordered List
-1. Item 1
-1. Item 2
-   1. Item 2a
-   1. Item 2b
